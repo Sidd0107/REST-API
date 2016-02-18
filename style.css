@@ -1,0 +1,26 @@
+/*
+Below are the basic styling features that style the 
+html file.
+*/
+body{
+	background: black;
+}
+header{
+	color: yellow;
+	text-align: center;
+}
+
+#mainPanel{
+	color: white;
+	padding-top: 10px;
+	text-align: center;
+}
+
+#mainPanel textarea{
+	left: 50%;
+}
+
+#resultDisp{
+
+	color: :white;
+}
